@@ -3,7 +3,7 @@ spec:
   services:
   - name: web
     github:
-      repo: aakashlpin/kha-ching
+      repo: NVYCO/kha-ching
       branch: master
       deploy_on_push: true
     build_command: yarn build
